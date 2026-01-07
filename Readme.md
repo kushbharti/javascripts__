@@ -82,15 +82,6 @@ Weather_Fetch/
   <li>Fetching and handling API data</li>
 </ul>
 
-<hr/>
-
-<h2>🔮 Future Enhancements</h2>
-<ul>
-  <li>Improve UI and animations</li>
-  <li>Add error handling and loaders</li>
-  <li>Make projects responsive</li>
-  <li>Deploy projects online</li>
-</ul>
 
 <hr/>
 
@@ -100,4 +91,3 @@ Aspiring Web Developer</p>
 
 <hr/>
 
-<p>⭐ This repository is created for learning and practice purposes.</p>
