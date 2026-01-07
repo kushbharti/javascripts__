@@ -1,6 +1,5 @@
 <h1>📘 JavaScript Projects</h1>
 
-<p>This repository contains <strong>basic JavaScript projects</strong> created for learning and practice. The projects focus on understanding core JavaScript concepts such as DOM manipulation, events, timing functions, and API integration.</p>
 
 <hr/>
 
