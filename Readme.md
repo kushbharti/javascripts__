@@ -25,6 +25,9 @@ Digital_Clock/
  ┗ nature.png
 </pre>
 
+<img width="1890" height="850" alt="Screenshot 2026-01-07 221354" src="https://github.com/user-attachments/assets/cec18972-6b03-41f4-b0dd-a57904db37da" />
+
+
 <hr/>
 
 <h3>🌦️ Weather Fetch App</h3>
